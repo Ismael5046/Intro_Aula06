@@ -1,0 +1,15 @@
+cd nomepasta - suba em nível de pasta.
+cd .. - deça o nível de pasta.
+touch - cria arquivo
+mkdir - cria pasta
+rmdir - deleta pasta
+rm - exclui arquivo
+rm -r nomearquivo - exclui pasta com conteudo
+pwd - exibe a pasta sendo trabalhada
+git branch nomebranch - cria branch ou seja, cria ramificação
+git checkout nomebranch - muda para a nova ramificação
+git add nomepastaouarquivo - atualiza as modificações do documento nomeado
+git .  - atualiza todas as modificações
+git remote add origin url - vincula o repositório local a um repositório remoro
+git pull - atualiza arquivos em relação a branch atualiza
+git commit -m "texto" - Adiciona um ponto de atualização
